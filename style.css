@@ -96,22 +96,22 @@ label {
 }
 a:hover{
     color: orange;
-    border: 1px, solid, purple;
+    border: 1px, solid, green;
 }
 input[type = "text"]:hover{
-    border: 2px solid black;
+    border: 2px solid green;
 }
 input[type = "email"]:hover{
-    border: 2px solid black;
+    border: 2px solid green;
 }
 input[type = "submit"]:hover{
-    border: 2px solid black;
+    border: 2px solid green;
 }
 input[type = "tel"]:hover{
-    border: 2px solid black;
+    border: 2px solid green;
 }
 textarea:hover{
-    border: 2px solid black;
+    border: 2px solid green;
 }
 
 /* @media only screen and (max-width: 768px) {
