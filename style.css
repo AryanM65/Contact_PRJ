@@ -113,8 +113,7 @@ input[type = "tel"]:hover{
 textarea:hover{
     border: 2px solid green;
 }
-
-/* @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     
     h1 {
       font-size: 24px;
@@ -144,8 +143,7 @@ textarea:hover{
     }
   }
   
-  
-  @media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px) {
     
     h1 {
       font-size: 28px;
@@ -173,4 +171,4 @@ textarea:hover{
     #final {
       padding-left: 30px;
     }
-  } */
+  } 
